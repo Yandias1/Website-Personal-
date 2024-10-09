@@ -1,2 +1,2 @@
-# Website-Personal-
+# Website Personal
 Terdapat CV dan Portofolio (Barista)
